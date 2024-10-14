@@ -1,4 +1,4 @@
-<nav>
+<!-- <nav>
 {%- for item in include.menu -%}
   {%- assign node = site.pages | where: "name", item.file | first -%}
   {%- assign url = item.url | default: node.url -%}
@@ -7,4 +7,27 @@
     {%- if item.icon -%}<svg aria-label="{{ title }}" class="icon"><use xlink:href="{{ "/assets/fontawesome/icons.svg" | relative_url }}#{{ item.icon }}"></use></svg>{%- else -%}{{ title }}{%- endif -%}
   </a>
 {%- endfor -%}
+</nav> -->
+
+<style>
+  nav {
+    display: flex;
+    justify-content: center;
+    margin: 1em 0;
+  }
+
+  ul {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+</style>
+
+<nav>
+  <ul>
+    <li><a href="{{ '/' | relative_url }}">Home</a></li>
+    <!-- Remove the following line if it exists -->
+    <!-- <li><a href="{{ '/about/' | relative_url }}">About</a></li> -->
+  </ul>
 </nav>
