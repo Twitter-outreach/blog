@@ -1,6 +1,6 @@
 title: "Xreacher Blog"
 author: "Xreacher Author"
-description: "Writen by Xreacher."
+description: "Written by <a href='https://www.xreacher.com'>Xreacher</a>."
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"

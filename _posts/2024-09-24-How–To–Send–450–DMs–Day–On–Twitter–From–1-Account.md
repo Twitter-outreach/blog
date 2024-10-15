@@ -12,6 +12,9 @@ categories: media
 
 If you're looking to maximize your outreach on Twitter, sending up to **450 DMs per day from a single account** can significantly increase engagement with your target audience. Here's a quick guide on how to efficiently set up and manage your Twitter DM campaigns.
 
+[Video Reference](https://www.youtube.com/watch?v=io6W2WRoOQ0) | 
+[Xreacher Platform](https://xreacher.com)
+
 ---
 
 ## Step 1: Tool Setup and Requirements
@@ -85,7 +88,3 @@ By following these steps, you can optimize your Twitter DM strategy and engage w
 
 
 [Video Reference](https://www.youtube.com/watch?v=io6W2WRoOQ0)
-
-
-
-[Watch the video on YouTube](https://www.youtube.com/watch?v=io6W2WRoOQ0)

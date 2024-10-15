@@ -10,7 +10,8 @@ categories: media
 
 # How to Send 75,000 Cold DMs a Month for SMMA: A Quick Tutorial
 
-[Video Reference](https://www.youtube.com/watch?v=pt4N-Em6wLE)
+[Video Reference](https://www.youtube.com/watch?v=pt4N-Em6wLE) | 
+[Xreacher Platform](https://xreacher.com)
 
 Direct messaging (DM) is a powerful tool for generating leads for your Social Media Marketing Agency (SMMA). If you're aiming to send **75,000 cold DMs a month**, this quick tutorial will guide you through setting up multiple Twitter accounts and automating your outreach process.
 

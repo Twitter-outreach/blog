@@ -10,7 +10,8 @@ categories: media
 
 # 3 Reasons Why People Aren't Replying to Your Cold DMs
 
-[Video Reference](https://www.youtube.com/watch?v=QkOosKiy_jI)
+[Video Reference](https://www.youtube.com/watch?v=QkOosKiy_jI) | 
+[Xreacher Platform](https://xreacher.com)
 
 When it comes to cold DMs, most people struggle with response rates. It’s easy to assume the problem lies with the audience, but more often than not, the issue is with your approach. After sending over 500,000 DMs last month, I’ve learned a few things about why people aren’t replying and how to fix it. Here are the top three reasons you're not getting responses—and what to do about it.
 
