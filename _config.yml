@@ -28,3 +28,13 @@ comments:
 
 plugins:
  - jekyll-feed
+ - jekyll-seo-tag
+
+# SEO settings
+twitter:
+  username: hamplda
+  card: summary
+social:
+  name: Xreacher
+  links:
+    - https://www.xreacher.com
