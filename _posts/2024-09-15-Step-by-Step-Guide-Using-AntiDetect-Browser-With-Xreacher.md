@@ -22,14 +22,14 @@ This guide will help you manage multiple online accounts using anti-detect brows
 ## 2. Browser Options
 
 ### Recommended:
-- Hide My Account: Available for Mac and Windows.
+- Hidemyacc: Available for Mac and Windows.
 - Dolphin Anty: Free for up to 10 accounts.
 - AdsPower: Possibly free for 5 accounts.
 
-## 3. Setting Up "Hide My Account"
+## 3. Setting Up "Hidemyacc"
 
 ### Create a new profile:
-- Go to Profile Setup in Hide My Account.
+- Go to Profile Setup in Hidemyacc.
 - Add proxy details (IP address, port, username, password).
 - Create and open a new profile.
 
@@ -39,7 +39,7 @@ This guide will help you manage multiple online accounts using anti-detect brows
 
 ## 4. Setting Up "Dolphin Anty"
 
-- Follow a similar process to Hide My Account:
+- Follow a similar process to Hidemyacc:
   - Create a profile and add proxy details.
 
 ## Action Items
